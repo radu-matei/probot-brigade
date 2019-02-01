@@ -1,0 +1,25 @@
+{
+  "name": "probot-brigade",
+  "version": "0.0.1",
+  "description": "",
+  "main": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/radu-matei/probot-brigade.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/radu-matei/probot-brigade/issues"
+  },
+  "homepage": "https://github.com/radu-matei/probot-brigade#readme",
+  "devDependencies": {
+    "@azure/brigadier": "^0.2.1"
+  },
+  "dependencies": {
+    "probot": "^7.5.0"
+  }
+}
